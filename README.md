@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Charani
 
 - 👀 I’m interested in Machine Learning, AI-powered applications, and solving real-world problems with data.
-- 🌱 I’m currently learning Computer Vision, Multispectral Imaging, and Advanced ML concepts like regularization, model explainability, and deep learning frameworks.
+- 🌱 I’m currently learning Computer Vision, Multispectral Imaging, and Advanced ML concepts like  model explainability, and deep learning frameworks.
 - 💞️ I’m looking to collaborate on open-source AI projects, especially those related to healthcare, fashion tech, or historical art analysis.
 - 📫 How to reach me: [charani51015@example.com](mailto:charani51015@gmail.com) 
 - 😄 Pronouns: She/Her
