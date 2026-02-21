@@ -1,8 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=140&section=header&text=Ariga%20Sri%20Naga%20Charani&fontSize=32&fontColor=e8e8e8&fontAlignY=55&desc=AI%20Engineer%20%E2%80%94%20IIIT%20Kota&descSize=14&descAlignY=75&descColor=888888" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=160&section=header&text=Ariga%20Sri%20Naga%20Charani&fontSize=34&fontColor=c9d1d9&fontAlignY=52&desc=AI%20Engineer%20%C2%B7%20IIIT%20Kota&descSize=13&descAlignY=70&descColor=6e7681" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1200&color=9B9B9B&center=true&vCenter=true&width=600&lines=Building+production-grade+LLM+systems.;RAG+pipelines+that+don't+drift.;Agents+that+don't+hallucinate.;Architectures+that+hold+under+load.)](https://github.com/cherry51015)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3800&pause=1400&color=6e7681&center=true&vCenter=true&width=580&lines=Production-grade+LLM+systems.;RAG+pipelines+that+don't+drift.;Agents+that+don't+hallucinate.;Architectures+built+for+real+load.)](https://github.com/cherry51015)
+
+<br/>
+
+[![Email](https://img.shields.io/badge/charani51015%40gmail.com-161b22?style=flat-square&logo=gmail&logoColor=6e7681)](mailto:charani51015@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/sri--naga--charani-161b22?style=flat-square&logo=linkedin&logoColor=6e7681)](https://linkedin.com/in/sri-naga-charani)&nbsp;
+[![McKinsey Forward](https://img.shields.io/badge/McKinsey_Forward_Scholar_'25-161b22?style=flat-square&logoColor=6e7681)](https://github.com/cherry51015)
 
 </div>
 
@@ -16,7 +24,7 @@ Currently thinking about: multi-agent memory architectures, MCP integrations, an
 
 ---
 
-### Projects
+<h3>↗ Projects</h3>
 
 <table>
 <tr>
@@ -33,7 +41,7 @@ Currently thinking about: multi-agent memory architectures, MCP integrations, an
 
 **[Agent Translator — Multi-Agent Translation](https://github.com/cherry51015)**
 
-Hierarchical agents translating academic documents while preserving equations, tables, layout — not just text. Self-correcting QA loop. 96% BLEU. 70% cost reduction vs. commercial alternatives.
+Hierarchical agents translating academic documents while preserving equations, tables, and layout — not just text. Self-correcting QA loop. 96% BLEU. 70% cost reduction vs. commercial alternatives.
 
 `CrewAI` `GPT-4` `AWS ECS` `Multi-Agent`
 
@@ -44,7 +52,7 @@ Hierarchical agents translating academic documents while preserving equations, t
 
 **[NarrativeForge — RLHF Content Pipeline](https://github.com/cherry51015)**
 
-RAG + preference-based reward modeling for long-form generation. Built the feedback loop, not just the model. 34% hallucination reduction through RLHF and multi-agent orchestration.
+RAG + preference-based reward modeling for long-form generation. Built the feedback loop, not just the model. 34% hallucination reduction through multi-agent orchestration.
 
 `LangChain` `ChromaDB` `FastAPI` `RLHF`
 
@@ -63,7 +71,7 @@ KPI extraction and chart understanding from financial reports. 91% numerical acc
 
 ---
 
-### Stack
+<h3>⚙ Stack</h3>
 
 <div align="center">
 
@@ -71,41 +79,50 @@ KPI extraction and chart understanding from financial reports. 91% numerical acc
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/LangChain-0a0a0a?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-0a0a0a?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/CrewAI-0a0a0a?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/AutoGen-0a0a0a?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/LlamaIndex-0a0a0a?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/FAISS-0a0a0a?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Pinecone-0a0a0a?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-0a0a0a?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Neo4j-0a0a0a?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/MCP-0a0a0a?style=flat-square&logoColor=white" />
+![LangChain](https://img.shields.io/badge/LangChain-161b22?style=flat-square&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-161b22?style=flat-square&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-161b22?style=flat-square&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-161b22?style=flat-square&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-161b22?style=flat-square&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-161b22?style=flat-square&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-161b22?style=flat-square&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-161b22?style=flat-square&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-161b22?style=flat-square&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-161b22?style=flat-square&logoColor=white)
 
 </div>
 
 ---
 
-### Background
+<h3>◎ Background</h3>
 
-ML Engineer at Fox Trading — feature pipelines over 500+ daily market indicators, LSTM + XGBoost ensemble at 85% directional accuracy on forex.
+**ML Engineer — Fox Trading** &nbsp;`Oct 2024 – Jan 2025`  
+Feature pipelines over 500+ daily market indicators. LSTM + XGBoost ensemble at 85% directional accuracy on forex price prediction.
 
-LangChain open source contributor — RAG guardrails, retrieval refinement, backend optimization.
+**Open Source — LangChain**  
+Contributed to RAG guardrails, retrieval refinement, backend optimization.
 
-Workshop facilitator — advanced prompt engineering to 60+ students at IIIT Kota.
+**Technical Writer & Workshop Facilitator — QnS Club, IIIT Kota**  
+12+ ML/engineering articles · 600+ readers · Delivered advanced prompt engineering sessions to 60+ students.
 
-McKinsey Forward Scholar · Stanford ML Specialization · Google × Kaggle GenAI Intensive · Faculty Pick, Vogue Vista AI fashion analyst.
+---
+
+<h3>◈ Recognition</h3>
+
+McKinsey Forward Scholar &nbsp;·&nbsp; Stanford ML Specialization &nbsp;·&nbsp; Google × Kaggle GenAI Intensive &nbsp;·&nbsp; Faculty Pick, Vogue Vista AI &nbsp;·&nbsp; LangChain Contributor
 
 ---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cherry51015&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e8e8e8&icon_color=666666&text_color=888888&hide=contribs&rank_icon=github" height="150"/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=cherry51015&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=6e7681&text_color=6e7681&hide=contribs,prs&rank_icon=github&card_width=400" height="155"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherry51015&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e8e8e8&text_color=888888&langs_count=6" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherry51015&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=6e7681&langs_count=6&card_width=300" height="155"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
