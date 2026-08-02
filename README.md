@@ -16,7 +16,7 @@
 
 <br/>
 
-I build systems that close the gap between LLM capability and production reality. Third year CS undergrad at IIIT Kota ; shipped 17+ GenAI applications across legal intelligence, multi-agent translation, RLHF pipelines, and financial multimodal RAG.
+I build systems that close the gap between LLM capability and production reality. Final year CS undergrad at IIIT Kota ; shipped 17+ GenAI applications across legal intelligence, multi-agent translation, RLHF pipelines, and financial multimodal RAG.
 
 Currently thinking about: multi-agent memory architectures, MCP integrations, and what RAG reliability actually requires at scale.
 
