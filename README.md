@@ -1,195 +1,796 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1f3a5f,70:1f6feb,100:0d1117&height=210&section=header&text=Sri%20Naga%20Charani&fontSize=46&fontColor=e6edf3&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20IIIT%20Kota%20%E2%80%94%20Batch%20'27&descSize=16&descAlignY=58&descColor=79c0ff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070A,35:0D1B2A,70:123B63,100:05070A&height=240&section=header&text=CHARANI&fontSize=72&fontColor=E6EDF3&fontAlignY=38&desc=AI%20ENGINEERING%20%C2%B7%20RETRIEVAL%20%C2%B7%20EVALUATION%20%C2%B7%20ML%20SYSTEMS&descSize=15&descAlignY=62&descColor=79C0FF&animation=fadeIn" width="100%"/>
 
-<br/>
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3200&pause=1200&color=79C0FF&center=true&vCenter=true&width=650&lines=Building+RAG+pipelines+that+don%27t+drift.;Turning+fMRI+data+into+explainable+diagnoses.;Agents+that+cite+their+sources%2C+not+guess.;Currently%3A+LLM+eval+frameworks+%40+Ethara+AI.)](https://github.com/cherry51015)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=79C0FF&center=true&vCenter=true&width=780&lines=I+build+systems+around+models%2C+not+just+models.;Retrieval+that+knows+where+it+came+from.;Models+that+are+tested+before+they+are+trusted.;AI+%C3%97+Neuroscience+%C3%97+Explainability;Currently+building+LLM+evaluation+systems+at+Ethara+AI." />
 
-<br/>
+<br><br>
 
-<a href="mailto:charani51015@gmail.com"><img src="https://img.shields.io/badge/EMAIL-charani51015%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
-<a href="https://linkedin.com/in/sri-naga-charani"><img src="https://img.shields.io/badge/LINKEDIN-sri--naga--charani-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
-<a href="https://github.com/cherry51015/Levi-legal_AI_assistant"><img src="https://img.shields.io/badge/FLAGSHIP-Levi%20Legal%20RAG-1f6feb?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0d1117" /></a>
+<a href="mailto:charani51015@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/sri-naga-charani">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117"/>
+</a>
+&nbsp;
+<a href="https://github.com/cherry51015">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117"/>
+</a>
+&nbsp;
+<a href="https://github.com/cherry51015/Levi-legal_AI_assistant">
+<img src="https://img.shields.io/badge/FLAGSHIP%20PROJECT-LEVI-0D1117?style=for-the-badge&logo=readthedocs&logoColor=79C0FF&labelColor=0D1117"/>
+</a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=cherry51015&label=Profile+Views&color=1f6feb&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=cherry51015&label=PROFILE%20VIEWS&color=1f6feb&style=flat-square"/>
 
 </div>
 
-<br/>
+---
 
-> I close the gap between "the model works in a notebook" and "the model works at 2am under real traffic." Third-year CS undergrad at IIIT Kota, currently interning at **Ethara AI** on LLM evaluation frameworks, with a research track under **Dr. Bhavna Bajpai** on ASD classification from resting-state fMRI. My work spans retrieval-grounded legal assistants, multi-agent translation, and neuroscience-meets-LLM explainability — the throughline is always the same: don't ship a model, ship a system you can trust.
+## `~/about`
 
-<br/>
+> **I don't just build models. I build the systems around them.**
+
+I'm **Sri Naga Charani**, a Computer Science undergraduate at **IIIT Kota** working at the intersection of **LLM engineering, retrieval systems, evaluation, backend systems, and applied ML research**.
+
+Currently at **Ethara AI**, working on LLM evaluation and generative-output benchmarking — building systematic ways to identify **hallucination, instruction drift, grounding failures, relevance issues, and other failure modes** that don't appear in a happy-path demo.
+
+Alongside engineering, I'm researching **ASD classification from resting-state fMRI** under **Dr. Bhavna Bajpai**, combining graph-based deep learning, explainability, and LLM-assisted interpretation.
+
+The common thread across my work:
+
+```text
+                    ┌─────────────────┐
+                    │      DATA       │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │      MODEL      │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │    RETRIEVAL    │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │   EVALUATION    │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │   DEPLOYMENT    │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │   OBSERVATION   │
+                    └────────┬────────┘
+                             │
+                             └──→ improve → repeat
+```
+
+**The goal isn't a model that works once.
+The goal is a system that still works when nobody is watching.**
+
+---
 
 <div align="center">
+
+## `SYSTEM SIGNALS`
+
 <table>
 <tr>
-<td align="center" width="25%">
+
+<td align="center" width="20%">
 
 ### 153K+
-<sub>clause FAISS index (Levi)</sub>
+
+<sub>LEGAL CLAUSES<br>LEVI</sub>
 
 </td>
-<td align="center" width="25%">
+
+<td align="center" width="20%">
 
 ### 570
-<sub>ABIDE-I subjects modeled</sub>
+
+<sub>ABIDE-I<br>SUBJECTS</sub>
 
 </td>
-<td align="center" width="25%">
+
+<td align="center" width="20%">
 
 ### 0.793
-<sub>mean AUC, ASD classifier</sub>
+
+<sub>MEAN AUC<br>ASD CLASSIFIER</sub>
 
 </td>
-<td align="center" width="25%">
+
+<td align="center" width="20%">
 
 ### 17+
-<sub>public repos shipped</sub>
+
+<sub>PUBLIC<br>REPOSITORIES</sub>
 
 </td>
+
+<td align="center" width="20%">
+
+### 46
+
+<sub>SOURCES<br>PRISMA REVIEW</sub>
+
+</td>
+
 </tr>
 </table>
+
 </div>
 
-<br/>
+---
 
-<div align="center"><h2>↗&nbsp; Featured Builds</h2></div>
+<div align="center">
+
+# `01 / FEATURED SYSTEMS`
+
+</div>
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
-<h3 align="center">🔎 Levi — Legal Document Intelligence</h3>
 
-Production-grade legal RAG assistant over a **153K+ clause FAISS index**. Hybrid BM25 + FAISS retrieval, rubric-based LLM-as-judge evaluation, hallucination guardrails via strict document-grounding. Modular pipeline — verifier, briefing, chat modes — on FastAPI + GCP Cloud Run.
+<h3>🔎 Levi</h3>
 
-<div align="center">
+### Legal Document Intelligence
 
-`FastAPI` `FAISS` `BM25` `Gemini` `GCP`
+A retrieval-grounded legal assistant built around a simple principle:
 
-**[→ View Repo](https://github.com/cherry51015/Levi-legal_AI_assistant)**
+> **If the system cannot ground an answer in the documents, it shouldn't confidently answer.**
 
-</div>
+```text
+Documents
+    ↓
+Chunking / Indexing
+    ↓
+┌─────────┬─────────┐
+│  BM25   │  FAISS  │
+└────┬────┴────┬────┘
+     └─────┬───┘
+           ↓
+    Hybrid Retrieval
+           ↓
+         Gemini
+           ↓
+    Grounding Check
+           ↓
+   ┌───────┴───────┐
+   ↓               ↓
+Briefing          Chat
+```
+
+**Highlights**
+
+* 153K+ legal clauses
+* BM25 + FAISS hybrid retrieval
+* LLM-as-judge evaluation
+* Document-grounding guardrails
+* Modular verifier / briefing / chat modes
+* FastAPI backend
+* GCP Cloud Run deployment
+
+`FASTAPI` `FAISS` `BM25` `GEMINI` `GCP`
+
+<br>
+
+<a href="https://github.com/cherry51015/Levi-legal_AI_assistant">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-1F6FEB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </td>
+
 <td width="50%" valign="top">
-<h3 align="center">🌐 Agent-Translator</h3>
 
-Multi-agent academic document translation across DOCX, PDF, and TXT — preserving equations, tables, and layout, not just running text through an LLM. Hierarchical agents with a self-correcting QA loop.
+<h3>🌐 Agent-Translator</h3>
 
-<div align="center">
+### Structure-Aware Document Translation
 
-`CrewAI` `Python` `Multi-Agent` `AWS ECS`
+Not:
 
-**[→ View Repo](https://github.com/cherry51015/Agent-Translator)**
+```text
+PDF → text → LLM → PDF
+```
 
-</div>
+Instead:
+
+```text
+Input Document
+      ↓
+Structure Analysis
+      ↓
+Agent Routing
+      ↓
+Translation
+      ↓
+Equation / Table / Layout
+Preservation
+      ↓
+Independent QA
+      ↓
+Self-Correction
+      ↓
+Reconstructed Document
+```
+
+Supports academic documents across:
+
+`DOCX` · `PDF` · `TXT`
+
+Uses hierarchical agents and a self-correcting QA loop.
+
+`PYTHON` `CREWAI` `MULTI-AGENT` `AWS ECS`
+
+<br>
+
+<a href="https://github.com/cherry51015/Agent-Translator">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-1F6FEB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
-<h3 align="center">📖 NarrativeForge</h3>
 
-Automated book-publication workflow: web scraping → AI-assisted drafting → human-in-the-loop review → RL-based refinement. The interesting part isn't the generator, it's the feedback loop around it.
+<h3>📖 NarrativeForge</h3>
 
-<div align="center">
+### Human-in-the-Loop Generation
 
-`LangChain` `RLHF` `Python`
+A publication workflow where generation isn't the endpoint.
 
-**[→ View Repo](https://github.com/cherry51015/NarrativeForge)**
+```text
+Web
+ ↓
+Research
+ ↓
+Draft
+ ↓
+Human Review
+ ↓
+Feedback
+ ↓
+Refinement
+ ↓
+Improved Output
+```
 
-</div>
+The interesting part isn't just the generator.
+
+**It's the feedback loop around it.**
+
+`LANGCHAIN` `PYTHON` `RL`
+
+<br>
+
+<a href="https://github.com/cherry51015/NarrativeForge">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-1F6FEB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </td>
+
 <td width="50%" valign="top">
-<h3 align="center">📋 Trello Clone — Full-Stack Kanban</h3>
 
-Built end-to-end in a two-day SDE-intern assignment window. Fractional indexing for drag-and-drop reordering, optimistic UI updates, custom React hooks over a FastAPI + PostgreSQL backend.
+<h3>📋 Trello Clone</h3>
 
-<div align="center">
+### Full-Stack Systems Engineering
 
-`React` `FastAPI` `PostgreSQL` `Vite`
+Built end-to-end under a two-day SDE assignment window.
 
-**[→ View Repo](https://github.com/cherry51015/trello-clone)**
+```text
+React / Vite
+     ↕
+REST APIs
+     ↕
+FastAPI
+     ↕
+SQLAlchemy
+     ↕
+PostgreSQL
+```
 
-</div>
+**Highlights**
+
+* Fractional indexing
+* Optimistic UI updates
+* Drag-and-drop ordering
+* Custom React hooks
+* Card / checklist / label workflows
+* Production deployment
+
+`REACT` `FASTAPI` `POSTGRESQL` `VITE`
+
+<br>
+
+<a href="https://github.com/cherry51015/trello-clone">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-1F6FEB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </td>
+
 </tr>
 </table>
 
-<div align="center"><sub><i>+ Agentic-LLMs — survey/notes repo powering a co-authored PRISMA systematic review, "From Tool Use to Autonomy" (46 sources)</i></sub></div>
-
-<br/>
-
-<div align="center"><h2>◈&nbsp; Research</h2></div>
-
-<div align="center">
-<table><tr><td>
-
-**LLM-Based Framework for ASD Prediction and Individual Biomarker Identification from Resting-State fMRI Functional Connectivity**
-Co-authored with Renu Rawal, Kunja Anusri, and Dr. Bhavna Bajpai. BrainNetCNN on ABIDE-I (570 subjects, Schaefer-400 atlas) reaching **mean AUC 0.793**, paired with a two-layer LLM explainability pipeline — GradientSHAP → Yeo-7 network aggregation → natural-language biomarker narratives via Llama-3.3-70B.
-
-<sub>`fMRI` `BrainNetCNN` `GradientSHAP` `Explainable AI`</sub>
-
-</td></tr></table>
-</div>
-
-<br/>
-
-<div align="center"><h2>⚙&nbsp; Stack</h2></div>
+---
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,react,docker,aws,gcp,postgres,git&theme=dark&perline=10" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/LangChain-1f6feb?style=flat-square&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/LangGraph-1f6feb?style=flat-square&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/CrewAI-1f6feb?style=flat-square&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/LlamaIndex-1f6feb?style=flat-square&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/FAISS-1f6feb?style=flat-square&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/HuggingFace-1f6feb?style=flat-square&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Amazon_Bedrock-1f6feb?style=flat-square&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/MCP-1f6feb?style=flat-square&logoColor=white&labelColor=0d1117"/>
+# `02 / RESEARCH`
 
 </div>
 
-<br/>
+## 🧠 LLM-Assisted Neuroimaging Explainability
 
-<div align="center"><h2>◎&nbsp; Background</h2></div>
+### ASD Prediction & Individual Biomarker Identification from Resting-State fMRI
 
-<table width="100%">
-<tr><td width="180" valign="top" align="center"><b><sub>NOW</sub></b></td><td valign="top">AI Intern, <b>Ethara AI</b> — LLM evaluation frameworks, generative-output benchmarking</td></tr>
-<tr><td valign="top" align="center"><b><sub>OCT '24 – JAN '25</sub></b></td><td valign="top">ML Engineer, <b>Fox Trading</b> — feature pipelines over daily market indicators, LSTM + XGBoost ensemble for forex direction prediction</td></tr>
-<tr><td valign="top" align="center"><b><sub>ONGOING</sub></b></td><td valign="top">Research Assistant under <b>Dr. Bhavna Bajpai</b> — ASD classification from resting-state fMRI</td></tr>
-<tr><td valign="top" align="center"><b><sub>OPEN SOURCE</sub></b></td><td valign="top"><b>LangChain</b> — RAG guardrails and retrieval refinement</td></tr>
+Research with **Renu Rawal, Kunja Anusri, and Dr. Bhavna Bajpai**.
+
+A pipeline connecting neuroimaging, graph-based deep learning, explainability, and language models:
+
+```text
+                    ABIDE-I
+                       │
+                       ▼
+               Resting-state fMRI
+                       │
+                       ▼
+            Functional Connectivity
+                       │
+                       ▼
+                  Schaefer-400
+                       │
+                       ▼
+                  BrainNetCNN
+                       │
+                       ▼
+                  ASD Prediction
+                       │
+                       ▼
+                  GradientSHAP
+                       │
+                       ▼
+                Yeo-7 Networks
+                       │
+                       ▼
+             Biomarker Representation
+                       │
+                       ▼
+                  Llama-3.3-70B
+                       │
+                       ▼
+           Natural-Language Explanation
+```
+
+### Research Snapshot
+
+| Signal            |            Result |
+| ----------------- | ----------------: |
+| Subjects          |           **570** |
+| Atlas             |  **Schaefer-400** |
+| Model             |   **BrainNetCNN** |
+| Mean AUC          |         **0.793** |
+| Attribution       |  **GradientSHAP** |
+| Network mapping   |         **Yeo-7** |
+| Explanation layer | **Llama-3.3-70B** |
+
+`fMRI` `BRAINNETCNN` `GRADIENTSHAP` `XAI` `GRAPH LEARNING` `LLM`
+
+---
+
+<div align="center">
+
+# `03 / CURRENTLY`
+
+</div>
+
+<table>
+
+<tr>
+
+<td width="33%" valign="top">
+
+### 🧪 EVALUATION
+
+**Ethara AI**
+
+Working on LLM evaluation frameworks and generative-output benchmarking.
+
+Focus areas:
+
+* Human-preference signals
+* Rubric-based evaluation
+* Faithfulness
+* Grounding
+* Relevance
+* Instruction following
+* Adversarial testing
+* Failure-mode discovery
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🔬 RESEARCH
+
+**AI × Neuroscience**
+
+Exploring:
+
+* Functional connectivity
+* Graph-based learning
+* Explainability
+* Biomarker discovery
+* LLM-assisted interpretation
+
+> Can a black-box prediction become an understandable scientific hypothesis?
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🛠️ ENGINEERING
+
+**Systems over demos**
+
+Interested in:
+
+* RAG architectures
+* Agentic workflows
+* LLM evaluation
+* Model serving
+* Cloud infrastructure
+* Retrieval quality
+* Observability
+* Reliable AI systems
+
+</td>
+
+</tr>
+
 </table>
 
-<br/>
+---
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=cherry51015&theme=nord&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" height="120"/>
+# `04 / ENGINEERING STACK`
 
-<br/><br/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=cherry51015&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=79c0ff&text_color=8b949e&hide=contribs,prs&rank_icon=github&card_width=420" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherry51015&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=6&card_width=320" height="165"/>
+### `LANGUAGES`
 
-<br/><br/>
+<div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=cherry51015&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1f6feb&ring=79c0ff&fire=79c0ff&currStreakLabel=e6edf3" height="165"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript&theme=dark"/>
 
-<br/><br/>
+</div>
 
-<!-- Contribution snake — see setup note below to activate -->
-<img src="https://raw.githubusercontent.com/cherry51015/cherry51015/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+### `AI / ML`
 
-<br/><br/>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1f3a5f,70:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Transformers-161B22?style=flat-square&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/LangChain-161B22?style=flat-square&logoColor=79C0FF"/>
+<img src="https://img.shields.io/badge/LangGraph-161B22?style=flat-square&logoColor=79C0FF"/>
+<img src="https://img.shields.io/badge/CrewAI-161B22?style=flat-square&logoColor=79C0FF"/>
+<img src="https://img.shields.io/badge/LlamaIndex-161B22?style=flat-square&logoColor=79C0FF"/>
+<img src="https://img.shields.io/badge/FAISS-161B22?style=flat-square&logoColor=79C0FF"/>
+<img src="https://img.shields.io/badge/BM25-161B22?style=flat-square&logoColor=79C0FF"/>
+<img src="https://img.shields.io/badge/RAG-161B22?style=flat-square&logoColor=79C0FF"/>
+<img src="https://img.shields.io/badge/MCP-161B22?style=flat-square&logoColor=79C0FF"/>
+
+</div>
+
+### `BACKEND / DATA`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=fastapi,react,postgres,redis&theme=dark"/>
+
+</div>
+
+### `CLOUD / INFRA`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,githubactions&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Amazon_Bedrock-161B22?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/AWS_ECS-161B22?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Cloud_Run-161B22?style=flat-square&logo=googlecloud&logoColor=4285F4"/>
+<img src="https://img.shields.io/badge/CI%2FCD-161B22?style=flat-square&logo=githubactions&logoColor=79C0FF"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# `05 / EXPERIENCE`
+
+</div>
+
+```text
+2026 ───────────────────────────────────────────────────────── NOW
+
+ETHARA AI
+LLM Post-Training / Evaluation Intern
+
+├── LLM evaluation frameworks
+├── Generative-output benchmarking
+├── Adversarial stress testing
+├── Failure-mode analysis
+└── Faithfulness / grounding / relevance
+
+
+ONGOING ─────────────────────────────────────────────────────────
+
+RESEARCH
+ASD Classification from Resting-State fMRI
+
+├── BrainNetCNN
+├── Functional connectivity
+├── GradientSHAP
+├── Yeo-7 network aggregation
+└── LLM-assisted explanations
+
+
+2024 ───────────────────────────────────────────────────────────
+
+FOX TRADING
+ML Engineer
+
+├── Forex feature engineering
+├── LSTM
+├── XGBoost
+└── Walk-forward validation
+
+
+OPEN SOURCE ───────────────────────────────────────────────────
+
+LANGCHAIN ECOSYSTEM
+
+└── RAG guardrails / retrieval refinement
+```
+
+---
+
+<div align="center">
+
+# `06 / SIGNALS`
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+### 🏆
+
+**Google GenAI Hackathon**
+
+Top 15 Finalist
+
+National
+
+</td>
+
+<td align="center" width="25%">
+
+### 🏦
+
+**Goldman Sachs Hackathon**
+
+Builder
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎓
+
+**McKinsey Forward**
+
+Scholar
+
+</td>
+
+<td align="center" width="25%">
+
+### 📚
+
+**Systematic Review**
+
+46-source PRISMA study
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+# `07 / ENGINEERING PHILOSOPHY`
+
+</div>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### `01` — RELIABILITY
+
+A beautiful demo is easy.
+
+A system that survives:
+
+* noisy retrieval
+* adversarial prompts
+* hallucinations
+* malformed inputs
+* model changes
+* production traffic
+
+is much harder.
+
+**That's the interesting part.**
+
+</td>
+
+<td width="50%" valign="top">
+
+### `02` — EVALUATION
+
+If you cannot measure failure,
+
+**you don't really know whether the system works.**
+
+I'm interested in evaluation that goes beyond a single benchmark number.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### `03` — EXPLAINABILITY
+
+Prediction is only half the problem.
+
+For scientific and high-stakes applications:
+
+```text
+prediction
+    ↓
+attribution
+    ↓
+structure
+    ↓
+explanation
+    ↓
+human understanding
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### `04` — SYSTEMS
+
+I like the layer between:
+
+```text
+"the model works"
+```
+
+and
+
+```text
+"the product works."
+```
+
+APIs · Retrieval · Evaluation · Deployment · Observability · Failure Handling
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+# `08 / GITHUB TELEMETRY`
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=cherry51015&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E6EDF3&icon_color=79C0FF&text_color=8B949E&rank_icon=github&hide=contribs&include_all_commits=true" height="170"/>
+
+  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherry51015&layout=compact&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&langs_count=8" height="170"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=cherry51015&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1F6FEB&ring=79C0FF&fire=79C0FF&currStreakLabel=E6EDF3" height="170"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cherry51015&bg_color=0D1117&color=79C0FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# `09 / CONTRIBUTIONS`
+
+<img src="https://raw.githubusercontent.com/cherry51015/cherry51015/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `CURRENTLY BUILDING`
+
+### Reliable AI systems where retrieval, reasoning and evaluation meet.
+
+<br>
+
+`RAG` · `LLM EVALUATION` · `AGENTS` · `ML SYSTEMS` · `XAI`
+
+<br><br>
+
+<a href="mailto:charani51015@gmail.com">
+<img src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING_INTERESTING-1F6FEB?style=for-the-badge&logoColor=white"/>
+</a>
+
+<br><br>
+
+<sub>
+
+IIIT Kota · Computer Science · Batch '27
+
+</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070A,35:0D1B2A,70:123B63,100:05070A&height=130&section=footer" width="100%"/>
 
 </div>
