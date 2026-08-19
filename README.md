@@ -163,21 +163,9 @@ Co-authored with Renu Rawal, Kunja Anusri, and Dr. Bhavna Bajpai. BrainNetCNN on
 <table width="100%">
 <tr><td width="180" valign="top" align="center"><b><sub>NOW</sub></b></td><td valign="top">AI Intern, <b>Ethara AI</b> — LLM evaluation frameworks, generative-output benchmarking</td></tr>
 <tr><td valign="top" align="center"><b><sub>OCT '24 – JAN '25</sub></b></td><td valign="top">ML Engineer, <b>Fox Trading</b> — feature pipelines over daily market indicators, LSTM + XGBoost ensemble for forex direction prediction</td></tr>
-<tr><td valign="top" align="center"><b><sub>ONGOING</sub></b></td><td valign="top">Research Assistant under <b>Dr. Bhavna Bajpai</b> — ASD classification from resting-state fMRI</td></tr>
+<tr><td valign="top" align="center"><b><sub>ONGOING</sub></b></td><td valign="top">Research work under <b>Dr. Bhavna Bajpai</b> — ASD classification from resting-state fMRI</td></tr>
 <tr><td valign="top" align="center"><b><sub>OPEN SOURCE</sub></b></td><td valign="top"><b>LangChain</b> — RAG guardrails and retrieval refinement</td></tr>
 </table>
-
-<br/>
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=cherry51015&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=79c0ff&text_color=8b949e&hide=contribs,prs&rank_icon=github&card_width=420" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherry51015&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=6&card_width=320" height="165"/>
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=cherry51015&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1f6feb&ring=79c0ff&fire=79c0ff&currStreakLabel=e6edf3" height="165"/>
-
-<br/><br/>
 
 <!-- Contribution snake — see setup note below to activate -->
 <img src="https://raw.githubusercontent.com/cherry51015/cherry51015/output/github-contribution-grid-snake-dark.svg" width="100%"/>
