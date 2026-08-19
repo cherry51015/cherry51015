@@ -168,11 +168,6 @@ Co-authored with Renu Rawal, Kunja Anusri, and Dr. Bhavna Bajpai. BrainNetCNN on
 </table>
 
 <br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=cherry51015&theme=nord&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" height="120"/>
-
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=cherry51015&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=79c0ff&text_color=8b949e&hide=contribs,prs&rank_icon=github&card_width=420" height="165"/>
