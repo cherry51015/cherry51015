@@ -77,6 +77,5 @@
 <circle class="nn" style="animation-delay:1.08s" cx="785.0" cy="100.0" r="3.6"/>
 <circle class="halo" cx="808" cy="138" r="5.5"/>
 <circle cx="808" cy="138" r="5.5" fill="#ea580c"/>
-<text class="serif muted" x="640" y="274" style="font-style:italic;font-size:12px">Fig. 1 — a query and its top-5 neighbours.</text>
 <rect x="40" y="294" width="920" height="1" fill="url(#g)" opacity=".5"/>
 </svg>
