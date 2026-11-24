@@ -30,23 +30,9 @@ I close the gap between *the model works in a notebook* and *the model works at 
 An LLM reads dispute evidence but never touches the money. Rules extract facts first, and the LLM is called only for documents the rules can't read; its answers must quote the source verbatim or they're discarded. A bootstrap ensemble turns facts into P(win) ± uncertainty, and a deterministic policy picks CONTEST, CONCEDE or ESCALATE by expected value. It escalates to a human only when their answer is worth their time. Async API with an append-only audit trail and idempotency keys. Every concession comes with the minimal evidence that would flip it.
 <br><sub>`FastAPI` `PostgreSQL` `SQLAlchemy/Alembic` `asyncio` `NumPy` `Prometheus` `Docker`</sub> · <sub>[live demo](https://abstain-kappa.vercel.app) · [API docs](https://abstain-api.onrender.com/docs)</sub>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/abstain-flow-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/abstain-flow-light.svg">
-  <img alt="Abstain pipeline: rules and LLM extract facts, a win model estimates P(win), an expected-value policy contests, concedes or escalates" src="./assets/abstain-flow-dark.svg" width="100%">
-</picture>
-
-
 **[Levi — legal document Q&A with cited evidence](https://github.com/cherry51015/levi-v2)**
 Every claim cites the exact passage it came from, and weak evidence triggers a refusal before any LLM call. Hybrid BM25 + vector search, reciprocal rank fusion and a cross-encoder reranker. On CUAD contracts: 86% hit@5, 0 of 24 made-up claims, 18 of 19 unanswerable questions correctly refused. The 12× smaller reranker beat the bigger one at a tenth of the latency. Runs at $0 on free tiers behind retries, a per-model circuit breaker and a fallback chain.
 <br><sub>`FastAPI` `Qdrant` `BM25` `bge` `cross-encoder` `Langfuse` `Docker`</sub> · <sub>[live demo](https://levi-v2-lebhn9g2ds8wwdvg34yhkn.streamlit.app/)</sub>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/levi-flow-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/levi-flow-light.svg">
-  <img alt="Levi pipeline: BM25 and vector search, RRF fusion, cross-encoder rerank, refusal gate, cited LLM claims" src="./assets/levi-flow-dark.svg" width="100%">
-</picture>
-
 
 **[Trello clone — Kanban backend](https://github.com/cherry51015/trello-clone)**
 Built end-to-end in a two-day intern assignment. Fractional indexing so a drag-and-drop reorder writes one row instead of renumbering a list. FastAPI + PostgreSQL API with optimistic updates on the client.
@@ -100,7 +86,3 @@ Multi-agent translation of academic documents (DOCX, PDF, TXT) that preserves eq
 <tr><td width="170" valign="top"><sub><code>OCT&nbsp;24&nbsp;–&nbsp;JAN&nbsp;25</code></sub></td><td valign="top"><b>ML Engineer, Fox Trading</b> — feature pipelines on daily market indicators; LSTM + XGBoost ensemble for forex direction</td></tr>
 <tr><td width="170" valign="top"><sub><code>OPEN&nbsp;SOURCE</code></sub></td><td valign="top"><b>LangChain</b> — RAG guardrails and retrieval refinement</td></tr>
 </table>
-
-<br>
-
-<sub>Fig. 1 in the header is a real top-k query: the highlighted points are the five nearest neighbours of the query point.</sub>
