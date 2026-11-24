@@ -12,15 +12,17 @@ I close the gap between *the model works in a notebook* and *the model works at 
 
 <br>
 
-<table>
-<tr>
-<td width="33%" align="center"><h2>86%</h2><sub>hit@5 retrieval · Levi on CUAD</sub></td>
-<td width="33%" align="center"><h2>0 / 24</h2><sub>made-up claims · Levi</sub></td>
-<td width="33%" align="center"><h2>0.793</h2><sub>mean AUC · ASD classifier</sub></td>
-</tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/metrics-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/metrics-light.svg">
+  <img alt="86% hit@5 retrieval and 0 of 24 made-up claims in Levi; 0.793 mean AUC for the ASD classifier" src="./assets/metrics-dark.svg" width="100%">
+</picture>
 
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+  <img alt="" src="./assets/divider-dark.svg" width="100%">
+</picture>
 
 ## <sub><code>01</code></sub>&nbsp; Selected work
 
@@ -28,9 +30,23 @@ I close the gap between *the model works in a notebook* and *the model works at 
 An LLM reads dispute evidence but never touches the money. Rules extract facts first, and the LLM is called only for documents the rules can't read; its answers must quote the source verbatim or they're discarded. A bootstrap ensemble turns facts into P(win) ± uncertainty, and a deterministic policy picks CONTEST, CONCEDE or ESCALATE by expected value. It escalates to a human only when their answer is worth their time. Async API with an append-only audit trail and idempotency keys. Every concession comes with the minimal evidence that would flip it.
 <br><sub>`FastAPI` `PostgreSQL` `SQLAlchemy/Alembic` `asyncio` `NumPy` `Prometheus` `Docker`</sub> · <sub>[live demo](https://abstain-kappa.vercel.app) · [API docs](https://abstain-api.onrender.com/docs)</sub>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/abstain-flow-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/abstain-flow-light.svg">
+  <img alt="Abstain pipeline: rules and LLM extract facts, a win model estimates P(win), an expected-value policy contests, concedes or escalates" src="./assets/abstain-flow-dark.svg" width="100%">
+</picture>
+
+
 **[Levi — legal document Q&A with cited evidence](https://github.com/cherry51015/levi-v2)**
 Every claim cites the exact passage it came from, and weak evidence triggers a refusal before any LLM call. Hybrid BM25 + vector search, reciprocal rank fusion and a cross-encoder reranker. On CUAD contracts: 86% hit@5, 0 of 24 made-up claims, 18 of 19 unanswerable questions correctly refused. The 12× smaller reranker beat the bigger one at a tenth of the latency. Runs at $0 on free tiers behind retries, a per-model circuit breaker and a fallback chain.
 <br><sub>`FastAPI` `Qdrant` `BM25` `bge` `cross-encoder` `Langfuse` `Docker`</sub> · <sub>[live demo](https://levi-v2-lebhn9g2ds8wwdvg34yhkn.streamlit.app/)</sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/levi-flow-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/levi-flow-light.svg">
+  <img alt="Levi pipeline: BM25 and vector search, RRF fusion, cross-encoder rerank, refusal gate, cited LLM claims" src="./assets/levi-flow-dark.svg" width="100%">
+</picture>
+
 
 **[Trello clone — Kanban backend](https://github.com/cherry51015/trello-clone)**
 Built end-to-end in a two-day intern assignment. Fractional indexing so a drag-and-drop reorder writes one row instead of renumbering a list. FastAPI + PostgreSQL API with optimistic updates on the client.
@@ -40,7 +56,11 @@ Built end-to-end in a two-day intern assignment. Fractional indexing so a drag-a
 Multi-agent translation of academic documents (DOCX, PDF, TXT) that preserves equations, tables and layout. Hierarchical agents with a self-correcting QA loop, deployed on ECS.
 <br><sub>`CrewAI` `Python` `AWS ECS`</sub>
 
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+  <img alt="" src="./assets/divider-dark.svg" width="100%">
+</picture>
 
 ## <sub><code>02</code></sub>&nbsp; Research
 
@@ -51,7 +71,11 @@ Multi-agent translation of academic documents (DOCX, PDF, TXT) that preserves eq
 
 > **From Tool Use to Autonomy** — co-authored PRISMA systematic review of agentic LLMs (46 sources). Notes live in the Agentic-LLMs repo.
 
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+  <img alt="" src="./assets/divider-dark.svg" width="100%">
+</picture>
 
 ## <sub><code>03</code></sub>&nbsp; Toolkit
 
@@ -62,7 +86,11 @@ Multi-agent translation of academic documents (DOCX, PDF, TXT) that preserves eq
 <tr><td width="170" valign="top"><b>Cloud</b></td><td valign="top">GCP (Cloud Run) · AWS (ECS, Bedrock) · Render · Vercel</td></tr>
 </table>
 
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+  <img alt="" src="./assets/divider-dark.svg" width="100%">
+</picture>
 
 ## <sub><code>04</code></sub>&nbsp; Experience
 
