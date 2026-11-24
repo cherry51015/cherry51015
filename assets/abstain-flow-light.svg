@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 270" width="1000" height="270" role="img" aria-label="Abstain pipeline: rule and LLM extraction into facts, a win model, and an expected-value policy that contests, concedes or escalates">
+<defs><linearGradient id="g" x1="0" y1="0" x2="100%" y2="0"><stop offset="0" stop-color="#0d9488"/><stop offset=".55" stop-color="#7c3aed"/><stop offset="1" stop-color="#ea580c"/></linearGradient></defs>
+<style>
+  .mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; } .serif { font-family: Georgia, 'Iowan Old Style', 'Times New Roman', serif; } .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+  .muted { fill: #59636e; } .fg { fill: #1f2328; }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  .node { fill: #f8fafb; stroke: #c9d1d9; stroke-width: 1; }
+  .nt { font: 600 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #1f2328; }
+  .ns { font: 400 11px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; fill: #59636e; }
+  .wire { fill: none; stroke: #c9d1d9; stroke-width: 1.3; }
+  .in { opacity: 0; animation: in .5s ease-out forwards; }
+  @keyframes in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+</style>
+<text class="mono" x="0" y="16" style="font-size:12px;letter-spacing:2px" fill="url(#g)">ABSTAIN  ·  THE LLM READS. A DETERMINISTIC ENGINE DECIDES.</text>
+<path id="p0" class="wire" d="M120 145.0 C140.0 145.0 140.0 105.0 160 105.0"/>
+<circle r="3.4" fill="#0d9488"><animateMotion dur="2.4s" begin="0s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"><mpath href="#p0"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="2.4s" begin="0s" repeatCount="indefinite"/></circle>
+<path d="M154 101.0 L160 105.0 L154 109.0" fill="none" stroke="#c9d1d9" stroke-width="1.3"/>
+<path id="p1" class="wire" d="M120 145.0 C140.0 145.0 140.0 195.0 160 195.0" stroke-dasharray="4 4"/>
+<circle r="3.4" fill="#7c3aed"><animateMotion dur="2.4s" begin="0.4s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"><mpath href="#p1"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="2.4s" begin="0.4s" repeatCount="indefinite"/></circle>
+<path d="M154 191.0 L160 195.0 L154 199.0" fill="none" stroke="#c9d1d9" stroke-width="1.3"/>
+<path id="p2" class="wire" d="M300 105.0 C320.0 105.0 320.0 145.0 340 145.0"/>
+<circle r="3.4" fill="#0d9488"><animateMotion dur="2.4s" begin="0.6s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"><mpath href="#p2"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></circle>
+<path d="M334 141.0 L340 145.0 L334 149.0" fill="none" stroke="#c9d1d9" stroke-width="1.3"/>
+<path id="p3" class="wire" d="M300 195.0 C320.0 195.0 320.0 145.0 340 145.0" stroke-dasharray="4 4"/>
+<circle r="3.4" fill="#7c3aed"><animateMotion dur="2.4s" begin="1.0s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"><mpath href="#p3"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="2.4s" begin="1.0s" repeatCount="indefinite"/></circle>
+<path d="M334 141.0 L340 145.0 L334 149.0" fill="none" stroke="#c9d1d9" stroke-width="1.3"/>
+<path id="p4" class="wire" d="M440 145.0 L480 145.0"/>
+<circle r="3.4" fill="#7c3aed"><animateMotion dur="2.4s" begin="1.1s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"><mpath href="#p4"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="2.4s" begin="1.1s" repeatCount="indefinite"/></circle>
+<path d="M474 141.0 L480 145.0 L474 149.0" fill="none" stroke="#c9d1d9" stroke-width="1.3"/>
+<path id="p5" class="wire" d="M630 145.0 L670 145.0"/>
+<circle r="3.4" fill="#0d9488"><animateMotion dur="2.4s" begin="1.5s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"><mpath href="#p5"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="2.4s" begin="1.5s" repeatCount="indefinite"/></circle>
+<path d="M664 141.0 L670 145.0 L664 149.0" fill="none" stroke="#c9d1d9" stroke-width="1.3"/>
+<path id="p6" class="wire" d="M820 145.0 C840.0 145.0 840.0 81.0 860 81.0"/>
+<circle r="3.4" fill="#0d9488"><animateMotion dur="2.4s" begin="1.9s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"><mpath href="#p6"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="2.4s" begin="1.9s" repeatCount="indefinite"/></circle>
+<path d="M854 77.0 L860 81.0 L854 85.0" fill="none" stroke="#c9d1d9" stroke-width="1.3"/>
+<path id="p7" class="wire" d="M820 145.0 L860 145.0"/>
+<circle r="3.4" fill="#ea580c"><animateMotion dur="2.4s" begin="2.1s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"><mpath href="#p7"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="2.4s" begin="2.1s" repeatCount="indefinite"/></circle>
+<path d="M854 141.0 L860 145.0 L854 149.0" fill="none" stroke="#c9d1d9" stroke-width="1.3"/>
+<path id="p8" class="wire" d="M820 145.0 C840.0 145.0 840.0 209.0 860 209.0"/>
+<circle r="3.4" fill="#7c3aed"><animateMotion dur="2.4s" begin="2.3s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"><mpath href="#p8"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="2.4s" begin="2.3s" repeatCount="indefinite"/></circle>
+<path d="M854 205.0 L860 209.0 L854 213.0" fill="none" stroke="#c9d1d9" stroke-width="1.3"/>
+<g class="in" style="animation-delay:0.00s">
+<rect class="node" x="0" y="120" width="120" height="50" rx="10"/>
+<text class="nt" x="60.0" y="142.0" text-anchor="middle">Dispute</text>
+<text class="ns" x="60.0" y="159.0" text-anchor="middle">+ evidence</text>
+</g>
+<g class="in" style="animation-delay:0.08s">
+<rect class="node" x="160" y="80" width="140" height="50" rx="10" style="stroke:#0d9488"/>
+<rect x="160" y="90" width="3" height="30" rx="1.5" fill="#0d9488"/>
+<text class="nt" x="230.0" y="102.0" text-anchor="middle">Rule extractor</text>
+<text class="ns" x="230.0" y="119.0" text-anchor="middle">first, always</text>
+</g>
+<g class="in" style="animation-delay:0.16s">
+<rect class="node" x="160" y="170" width="140" height="50" rx="10" style="stroke:#7c3aed"/>
+<rect x="160" y="180" width="3" height="30" rx="1.5" fill="#7c3aed"/>
+<text class="nt" x="230.0" y="192.0" text-anchor="middle">LLM extractor</text>
+<text class="ns" x="230.0" y="209.0" text-anchor="middle">quote or discard</text>
+</g>
+<g class="in" style="animation-delay:0.24s">
+<rect class="node" x="340" y="120" width="100" height="50" rx="10"/>
+<text class="nt" x="390.0" y="142.0" text-anchor="middle">Facts</text>
+<text class="ns" x="390.0" y="159.0" text-anchor="middle">verified</text>
+</g>
+<g class="in" style="animation-delay:0.32s">
+<rect class="node" x="480" y="120" width="150" height="50" rx="10" style="stroke:#7c3aed"/>
+<rect x="480" y="130" width="3" height="30" rx="1.5" fill="#7c3aed"/>
+<text class="nt" x="555.0" y="142.0" text-anchor="middle">Win model</text>
+<text class="ns" x="555.0" y="159.0" text-anchor="middle">P(win) ± σ</text>
+</g>
+<g class="in" style="animation-delay:0.40s">
+<rect class="node" x="670" y="120" width="150" height="50" rx="10" style="stroke:#0d9488"/>
+<rect x="670" y="130" width="3" height="30" rx="1.5" fill="#0d9488"/>
+<text class="nt" x="745.0" y="142.0" text-anchor="middle">Decision policy</text>
+<text class="ns" x="745.0" y="159.0" text-anchor="middle">EV + value of info</text>
+</g>
+<g class="in" style="animation-delay:0.48s">
+<rect class="node" x="860" y="60" width="140" height="42" rx="10" style="stroke:#0d9488"/>
+<rect x="860" y="70" width="3" height="22" rx="1.5" fill="#0d9488"/>
+<text class="nt" x="930.0" y="86.0" text-anchor="middle">CONTEST</text>
+</g>
+<g class="in" style="animation-delay:0.56s">
+<rect class="node" x="860" y="124" width="140" height="42" rx="10" style="stroke:#ea580c"/>
+<rect x="860" y="134" width="3" height="22" rx="1.5" fill="#ea580c"/>
+<text class="nt" x="930.0" y="150.0" text-anchor="middle">CONCEDE</text>
+</g>
+<g class="in" style="animation-delay:0.64s">
+<rect class="node" x="860" y="188" width="140" height="42" rx="10" style="stroke:#7c3aed"/>
+<rect x="860" y="198" width="3" height="22" rx="1.5" fill="#7c3aed"/>
+<text class="nt" x="930.0" y="214.0" text-anchor="middle">ESCALATE</text>
+</g>
+</svg>

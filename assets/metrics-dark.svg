@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 230" width="1000" height="230" role="img" aria-label="Levi retrieval hit@5 86 percent; 0 of 24 made-up claims; ASD classifier mean AUC 0.793">
+<defs><linearGradient id="g" x1="0" y1="0" x2="100%" y2="0"><stop offset="0" stop-color="#5eead4"/><stop offset=".55" stop-color="#c4b5fd"/><stop offset="1" stop-color="#fdba74"/></linearGradient></defs>
+<style>
+  .mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; } .serif { font-family: Georgia, 'Iowan Old Style', 'Times New Roman', serif; } .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+  .muted { fill: #8b949e; } .fg { fill: #e6edf3; }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  .card { fill: #0f141b; stroke: #262c36; stroke-width: 1; }
+  .ring { fill: none; stroke-width: 9; stroke-linecap: round; transform: rotate(-90deg); transform-box: fill-box; transform-origin: center; }
+  .prog { stroke-dasharray: 289; stroke-dashoffset: 289; animation: fill 1.6s cubic-bezier(.2,.7,.2,1) .3s forwards; }
+  .dot { opacity: 0; animation: pop .35s ease-out forwards; }
+  .roc { stroke-dasharray: 420; stroke-dashoffset: 420; animation: dr 1.8s ease-out .3s forwards; }
+  .area { opacity: 0; animation: fa 1s ease-out 1.6s forwards; }
+  @keyframes fill { to { stroke-dashoffset: 40.5; } }
+  @keyframes pop { 0% { opacity: 0; transform: scale(.2); } 100% { opacity: 1; transform: scale(1); } }
+  @keyframes dr { to { stroke-dashoffset: 0; } }
+  @keyframes fa { to { opacity: 1; } }
+</style>
+<rect class="card" x="1" y="1" width="314" height="228" rx="14"/>
+<rect class="card" x="343" y="1" width="314" height="228" rx="14"/>
+<rect class="card" x="685" y="1" width="314" height="228" rx="14"/>
+<circle class="ring" cx="92" cy="112" r="46" stroke="#262c36"/>
+<circle class="ring prog" cx="92" cy="112" r="46" stroke="#5eead4"/>
+<text class="serif fg" x="92" y="121" text-anchor="middle" style="font-size:28px">86%</text>
+<text class="mono" x="164" y="92" style="font-size:12px;letter-spacing:1.6px" fill="#5eead4">HIT@5</text>
+<text class="sans fg" x="164" y="116" style="font-size:15px">right clause</text>
+<text class="sans fg" x="164" y="136" style="font-size:15px">reaches the LLM</text>
+<text class="sans muted" x="164" y="160" style="font-size:12px">Levi · CUAD contracts</text>
+<text class="serif fg" x="370" y="70" style="font-size:40px">0<tspan class="muted" style="font-size:24px"> / 24</tspan></text>
+<text class="mono" x="370" y="98" style="font-size:12px;letter-spacing:1.6px" fill="#c4b5fd">MADE-UP CLAIMS</text>
+<g class="dot" style="animation-delay:0.30s;transform-box:fill-box;transform-origin:center"><circle cx="378" cy="134" r="8" fill="#c4b5fd" opacity=".18"/><path d="M374.4 134.2 l2.5 2.6 l4.9 -5.2" fill="none" stroke="#c4b5fd" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="dot" style="animation-delay:0.35s;transform-box:fill-box;transform-origin:center"><circle cx="400" cy="134" r="8" fill="#c4b5fd" opacity=".18"/><path d="M396.4 134.2 l2.5 2.6 l4.9 -5.2" fill="none" stroke="#c4b5fd" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="dot" style="animation-delay:0.40s;transform-box:fill-box;transform-origin:center"><circle cx="422" cy="134" r="8" fill="#c4b5fd" opacity=".18"/><path d="M418.4 134.2 l2.5 2.6 l4.9 -5.2" fill="none" stroke="#c4b5fd" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="dot" style="animation-delay:0.45s;transform-box:fill-box;transform-origin:center"><circle cx="444" cy="134" r="8" fill="#c4b5fd" opacity=".18"/><path d="M440.4 134.2 l2.5 2.6 l4.9 -5.2" fill="none" stroke="#c4b5fd" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="dot" style="animation-delay:0.50s;transform-box:fill-box;transform-origin:center"><circle cx="466" cy="134" r="8" fill="#c4b5fd" opacity=".18"/><path d="M462.4 134.2 l2.5 2.6 l4.9 -5.2" fill="none" stroke="#c4b5fd" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="dot" style="animation-delay:0.55s;transform-box:fill-box;transform-origin:center"><circle cx="488" cy="134" r="8" fill="#c4b5fd" opacity=".18"/><path d="M484.4 134.2 l2.5 2.6 l4.9 -5.2" fill="none" stroke="#c4b5fd" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="dot" style="animation-delay:0.60s;transform-box:fill-box;transform-origin:center"><circle cx="510" cy="134" r="8" fill="#c4b5fd" opacity=".18"/><path d="M506.4 134.2 l2.5 2.6 l4.9 -5.2" fill="none" stroke="#c4b5fd" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="dot" style="animation-delay:0.65s;transform-box:fill-box;transform-origin:center"><circle cx="532" cy="134" r="8" fill="#c4b5fd" opacity=".18"/><path d="M528.4 134.2 l2.5 2.6 l4.9 -5.2" fill="none" stroke="#c4b5fd" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="dot" style="animation-delay:0.70s;transform-box:fill-box;transform-origin:center"><circle cx="554" cy="134" r="8" fill="#c4b5fd" opacity=".18"/><path d="M550.4 134.2 l2.5 2.6 l4.9 -5.2" fill="none" stroke="#c4b5fd" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="dot" style="animation-delay:0.75s;transform-box:fill-box;transform-origin:center"><circle cx="576" cy="134" r="8" fill="#c4b5fd" opacity=".18"/><path d="M572.4 134.2 l2.5 2.6 l4.9 -5.2" fill="none" stroke="#c4b5fd" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="dot" style="animation-delay:0.80s;transform-box:fill-box;transform-origin:center"><circle cx="598" cy="134" r="8" fill="#c4b5fd" opacity=".18"/><path d="M594.4 134.2 l2.5 2.6 l4.9 -5.2" fill="none" stroke="#c4b5fd" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="dot" style="animation-delay:0.85s;transform-box:fill-box;transform-origin:center"><circle cx="620" cy="134" r="8" fill="#c4b5fd" opacity=".18"/><path d="M616.4 134.2 l2.5 2.6 l4.9 -5.2" fill="none" stroke="#c4b5fd" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="dot" style="animation-delay:0.90s;transform-box:fill-box;transform-origin:center"><circle cx="378" cy="160" r="8" fill="#c4b5fd" opacity=".18"/><path d="M374.4 160.2 l2.5 2.6 l4.9 -5.2" fill="none" stroke="#c4b5fd" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="dot" style="animation-delay:0.95s;transform-box:fill-box;transform-origin:center"><circle cx="400" cy="160" r="8" fill="#c4b5fd" opacity=".18"/><path d="M396.4 160.2 l2.5 2.6 l4.9 -5.2" fill="none" stroke="#c4b5fd" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="dot" style="animation-delay:1.00s;transform-box:fill-box;transform-origin:center"><circle cx="422" cy="160" r="8" fill="#c4b5fd" opacity=".18"/><path d="M418.4 160.2 l2.5 2.6 l4.9 -5.2" fill="none" stroke="#c4b5fd" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="dot" style="animation-delay:1.05s;transform-box:fill-box;transform-origin:center"><circle cx="444" cy="160" r="8" fill="#c4b5fd" opacity=".18"/><path d="M440.4 160.2 l2.5 2.6 l4.9 -5.2" fill="none" stroke="#c4b5fd" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="dot" style="animation-delay:1.10s;transform-box:fill-box;transform-origin:center"><circle cx="466" cy="160" r="8" fill="#c4b5fd" opacity=".18"/><path d="M462.4 160.2 l2.5 2.6 l4.9 -5.2" fill="none" stroke="#c4b5fd" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="dot" style="animation-delay:1.15s;transform-box:fill-box;transform-origin:center"><circle cx="488" cy="160" r="8" fill="#c4b5fd" opacity=".18"/><path d="M484.4 160.2 l2.5 2.6 l4.9 -5.2" fill="none" stroke="#c4b5fd" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="dot" style="animation-delay:1.20s;transform-box:fill-box;transform-origin:center"><circle cx="510" cy="160" r="8" fill="#c4b5fd" opacity=".18"/><path d="M506.4 160.2 l2.5 2.6 l4.9 -5.2" fill="none" stroke="#c4b5fd" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="dot" style="animation-delay:1.25s;transform-box:fill-box;transform-origin:center"><circle cx="532" cy="160" r="8" fill="#c4b5fd" opacity=".18"/><path d="M528.4 160.2 l2.5 2.6 l4.9 -5.2" fill="none" stroke="#c4b5fd" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="dot" style="animation-delay:1.30s;transform-box:fill-box;transform-origin:center"><circle cx="554" cy="160" r="8" fill="#c4b5fd" opacity=".18"/><path d="M550.4 160.2 l2.5 2.6 l4.9 -5.2" fill="none" stroke="#c4b5fd" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="dot" style="animation-delay:1.35s;transform-box:fill-box;transform-origin:center"><circle cx="576" cy="160" r="8" fill="#c4b5fd" opacity=".18"/><path d="M572.4 160.2 l2.5 2.6 l4.9 -5.2" fill="none" stroke="#c4b5fd" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="dot" style="animation-delay:1.40s;transform-box:fill-box;transform-origin:center"><circle cx="598" cy="160" r="8" fill="#c4b5fd" opacity=".18"/><path d="M594.4 160.2 l2.5 2.6 l4.9 -5.2" fill="none" stroke="#c4b5fd" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="dot" style="animation-delay:1.45s;transform-box:fill-box;transform-origin:center"><circle cx="620" cy="160" r="8" fill="#c4b5fd" opacity=".18"/><path d="M616.4 160.2 l2.5 2.6 l4.9 -5.2" fill="none" stroke="#c4b5fd" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text class="sans muted" x="370" y="206" style="font-size:12px">every claim cites its passage · LLM-judged</text>
+<line x1="714" y1="190" x2="864" y2="190" stroke="#3a4250"/>
+<line x1="714" y1="190" x2="714" y2="40" stroke="#3a4250"/>
+<line x1="714" y1="190" x2="864" y2="40" stroke="#3a4250" stroke-dasharray="3 4"/>
+<path class="area" d="M714.0 190.0 L717.8 176.1 L721.5 163.2 L725.2 151.3 L729.0 140.2 L732.8 129.9 L736.5 120.5 L740.2 111.8 L744.0 103.8 L747.8 96.5 L751.5 89.8 L755.2 83.8 L759.0 78.3 L762.8 73.3 L766.5 68.8 L770.2 64.8 L774.0 61.2 L777.8 58.0 L781.5 55.2 L785.2 52.7 L789.0 50.5 L792.8 48.7 L796.5 47.0 L800.2 45.7 L804.0 44.5 L807.8 43.5 L811.5 42.7 L815.2 42.0 L819.0 41.5 L822.8 41.1 L826.5 40.7 L830.2 40.5 L834.0 40.3 L837.8 40.2 L841.5 40.1 L845.2 40.1 L849.0 40.0 L852.8 40.0 L856.5 40.0 L860.2 40.0 L864.0 40.0 L864 190 Z" fill="#fdba74" fill-opacity=".16"/>
+<path class="roc" d="M714.0 190.0 L717.8 176.1 L721.5 163.2 L725.2 151.3 L729.0 140.2 L732.8 129.9 L736.5 120.5 L740.2 111.8 L744.0 103.8 L747.8 96.5 L751.5 89.8 L755.2 83.8 L759.0 78.3 L762.8 73.3 L766.5 68.8 L770.2 64.8 L774.0 61.2 L777.8 58.0 L781.5 55.2 L785.2 52.7 L789.0 50.5 L792.8 48.7 L796.5 47.0 L800.2 45.7 L804.0 44.5 L807.8 43.5 L811.5 42.7 L815.2 42.0 L819.0 41.5 L822.8 41.1 L826.5 40.7 L830.2 40.5 L834.0 40.3 L837.8 40.2 L841.5 40.1 L845.2 40.1 L849.0 40.0 L852.8 40.0 L856.5 40.0 L860.2 40.0 L864.0 40.0" fill="none" stroke="#fdba74" stroke-width="2.4" stroke-linecap="round"/>
+<text class="serif fg" x="884" y="80" style="font-size:34px">0.793</text>
+<text class="mono" x="884" y="106" style="font-size:12px;letter-spacing:1.6px" fill="#fdba74">MEAN AUC</text>
+<text class="sans muted" x="884" y="130" style="font-size:12px">ASD classifier</text>
+<text class="sans muted" x="884" y="148" style="font-size:12px">fMRI · 570 subjects</text>
+</svg>
